@@ -12,6 +12,10 @@ Backend Python Developer with over 3 years of experience designing and developin
 ![](https://nirzak-streak-stats.vercel.app/?user=hussian5577&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hussian5577&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<h2 align="center">🐍 Contributions Snake</h2>
+<img src="https://raw.githubusercontent.com/Haider-Mukhtar/Haider-Mukhtar/output/snake.svg" alt="Snake animation" />
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hussian5577&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
