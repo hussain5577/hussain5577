@@ -19,8 +19,8 @@ Backend Python Developer with over 3 years of experience designing and developin
 
 <!-- ## 📊 GitHub Stats: -->
 <h2 align="center">📊 GitHub Stats</h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussain5577&show_icons=true&locale=en&layout=compact&theme=react" alt="hussain5577" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussain5577&show_icons=true&locale=en&theme=react" alt="hussain5577" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussain5577&show_icons=true&locale=en&layout=compact&theme=react" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussain5577&show_icons=true&locale=en&theme=react"  /></p>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hussain5577&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=hussian5577&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> 
