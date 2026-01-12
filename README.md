@@ -25,56 +25,13 @@ Passionate about **AI/ML innovation**, I thrive in agile environments, collabora
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 📊 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hussian5577&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussian5577&theme=transparent&hide_border=true" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussian5577&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
-</div>
-
----
-
-## 🏆 **GitHub Trophies**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hussian5577&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
-</div>
-
----
-
-## 📈 **Activity Graph**
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hussian5577&radius=16&theme=react-dark&area=true&order=5&hide_border=true" height="250" alt="activity graph" />
-</div>
-
----
 
 ## 🐍 **Contributions**
 <div align="center">
   <img src="https://raw.githubusercontent.com/Haider-Mukhtar/Haider-Mukhtar/output/snake.svg" alt="Snake animation" />
 </div>
 
----
 
-## 💬 **Random Dev Quote**
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
-</div>
-
----
-
-## 🌟 **Top Contributed Repo**
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=hussian5577&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="contributions" />
-</div>
-
----
-
-## 📡 **Visitor Count**
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hussian5577&icon=0&color=0" alt="visitor count" />
-</div>
 
 ---
 *Crafted with ❤️ and AI by [Muhammad Hussain](https://github.com/hussian5577)*
